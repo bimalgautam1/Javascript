@@ -1,0 +1,31 @@
+body{
+     
+    justify-content: center;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 40%;
+    background-color: rgb(23, 165, 99);
+}
+#area1{
+    margin-top: 10%;
+}
+#searchBox{
+    height: 40px;
+    width: 50vb;
+    border-radius: 5px;
+    border: transparent;
+    border-color: rgb(23, 165, 99);
+}
+#searchBtn{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border: transparent;
+    
+}
